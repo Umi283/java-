@@ -1,6 +1,7 @@
 package myStack;
 
 public class MyStack<Item>{
+
     private Node first;
     private int n;
     private class Node{
